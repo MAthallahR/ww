@@ -1,0 +1,16 @@
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.csproj.GenerateResource.cache
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.AssemblyInfoInputs.cache
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.AssemblyInfo.cs
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.csproj.CoreCompileInputs.cache
+C:\Users\Kelas XII\Documents\VSB\oo\oo\bin\Debug\net10.0-windows\oo.exe
+C:\Users\Kelas XII\Documents\VSB\oo\oo\bin\Debug\net10.0-windows\oo.deps.json
+C:\Users\Kelas XII\Documents\VSB\oo\oo\bin\Debug\net10.0-windows\oo.runtimeconfig.json
+C:\Users\Kelas XII\Documents\VSB\oo\oo\bin\Debug\net10.0-windows\oo.dll
+C:\Users\Kelas XII\Documents\VSB\oo\oo\bin\Debug\net10.0-windows\oo.pdb
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.dll
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\refint\oo.dll
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.pdb
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.genruntimeconfig.cache
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\ref\oo.dll
+C:\Users\Kelas XII\Documents\VSB\oo\oo\obj\Debug\net10.0-windows\oo.todoList.resources
